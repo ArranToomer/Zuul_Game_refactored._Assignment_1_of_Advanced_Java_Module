@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DisplayText
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ extended\ "World\ of\ Zuul"\ application.\r\n\ "World\ of\ Zuul"\ is\ a\ simple,\ text\ based\ adventure\ game.\r\n\r\n\ This\ is\ a\ singleton\ class\ used\ as\ the\ central\ means\ to\ print\ out\ text\r\n\ that\ is\ relevant\ to\ the\ player\ of\ "World\ of\ Zuul".\r\n\r\n\ This\ class\ is\ the\ only\ class\ where\ System.out.println()\ occurs.\ This\ makes\ it\r\n\ easier\ to\ add\ other\ user\ interfaces,\ such\ as\ GUI\ based.\r\n\ @author\ Arran\ Toomer\ (2020)\r\n\ \ *\ @version\ 1\r\n
+comment1.params=
+comment1.target=DisplayText()
+comment2.params=
+comment2.target=DisplayText\ getInstance()
+comment3.params=text
+comment3.target=void\ displayText(java.lang.String)
+numComments=4

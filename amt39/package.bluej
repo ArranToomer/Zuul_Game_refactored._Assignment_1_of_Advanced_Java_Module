@@ -1,0 +1,26 @@
+#BlueJ package file
+objectbench.height=138
+objectbench.width=1896
+package.divider.horizontal=0.6
+package.divider.vertical=0.8478829064296916
+package.editor.height=804
+package.editor.width=1807
+package.editor.x=0
+package.editor.y=78
+package.frame.height=1053
+package.frame.width=1933
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+target1.height=62
+target1.name=gameInitialiser
+target1.type=PackageTarget
+target1.width=100
+target1.x=10
+target1.y=90

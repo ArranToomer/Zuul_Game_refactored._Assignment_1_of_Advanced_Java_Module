@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PlayerInterface
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ extended\ "World\ of\ Zuul"\ application.\r\n\ "World\ of\ Zuul"\ is\ a\ simple,\ text\ based\ adventure\ game.\r\n\r\n\ This\ class\ extends\ UserInterface\ and\ sets\ a\ player\ with\ an\ interface.\r\n\ This\ class\ repeatedly\ calls\ the\ parser\ and\ places\ any\ command\ requests\r\n\ to\ the\ GeneralManager\ class\ for\ further\ processing.\r\n\r\n\ The\ loop\ in\ method\:\ play()\ will\ end\ when\ the\ player\ uses\ CommandWord.QUIT.\r\n\r\n\ @author\ (Arran\ Toomer)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=player
+comment1.target=PlayerInterface(newBody.Player)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PlayerInterface\r\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ play()
+comment3.text=\r\n\ \r\n\r\n
+numComments=4

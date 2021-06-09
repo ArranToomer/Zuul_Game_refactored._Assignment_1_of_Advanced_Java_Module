@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DirectionWords
+comment0.text=\r\n\ Enumeration\ class\ DirectionWords\ -\ write\ a\ description\ of\ the\ enum\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=directionString
+comment1.target=DirectionWords(java.lang.String)
+comment2.params=aString
+comment2.target=boolean\ isDirection(java.lang.String)
+numComments=3

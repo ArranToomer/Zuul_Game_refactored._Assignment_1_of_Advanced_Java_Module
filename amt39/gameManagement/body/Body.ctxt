@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Body
+comment0.text=\r\n\ \ A\ body\ is\ the\ most\ general\ unit\ in\ the\ game.\ Object\ would\ be\r\n\ \ a\ better\ term\ but\ that\ is\ already\ in\ use.\r\n\ @author\ (A\ Toomer)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=name
+comment1.target=Body(java.lang.String)
+comment1.text=\r\n\ Create\ an\ instance\ of\ a\ Body\ object.\r\n\r\n\ @param\ name\ the\ name\ of\ the\ body.\ If\ the\ String\ contains\ spaces\ it\ will\r\n\ be\ contracted\ so\ that\ it\ doesn't\ contain\ spaces.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\ \r\n\ \r\n\ @return\ the\ name\ of\ this\ body\ object\r\n
+comment3.params=
+comment3.target=void\ deletebody()
+comment3.text=\r\n\ Remove\ the\ body\ from\ the\ list\ of\ Entities.\r\n
+numComments=4

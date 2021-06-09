@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LookCommand
+comment1.params=
+comment1.target=java.lang.String\ initiateCommand()
+comment1.text=\r\n\ This\ class\ is\ part\ of\ the\ extended\ "World\ of\ Zuul"\ application.\r\n\ "World\ of\ Zuul"\ is\ a\ simple,\ text\ based\ adventure\ game.\r\n\r\n\ This\ class\ contains\ the\ necessary\ code\ to\ execute\ the\ 'look'\ command\ word\r\n\ and\ is\ executed\ in\ the\ GameManager\ class.\r\n\r\n\ The\ 'look'\ command\ describes\ to\ the\ user\ all\ relevant\ info\ for\ their\ current\r\n\ location.\r\n\r\n\r\n\r\n\ @override\r\n
+numComments=2

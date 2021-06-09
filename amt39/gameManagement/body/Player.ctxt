@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=playerName\ capacity
+comment1.target=Player(java.lang.String,\ int)
+comment1.text=\r\n\ Initialises\ the\ Player\ object\ with\ a\ name,\ weight\ limit,\ and\ a\ starting\r\n\ room.\r\n\r\n\ @param\ playerName\ the\ name\ of\ the\ Player\r\n\ @param\ capacity\ the\ weight\ limit\ of\ the\ Player\r\n\r\n
+comment2.params=itemString
+comment2.target=Item\ getItem(java.lang.String)
+comment3.params=item
+comment3.target=boolean\ dropItem(Item)
+comment3.text=Drops\ an\ Item\ into\ the\ current\ room\ of\ the\ Player.\r\n\ \r\n\ @param\ item\ to\ be\ dropped\ in\ the\ current\ Room\r\n\ @return\ 0\ if\ drop\ fails;\ 1\ if\ drop\ success.\r\n
+comment4.params=item
+comment4.target=boolean\ addItem(Item)
+comment4.text=\r\n\ \r\n\ @param\ item\ item\ to\ be\ added\ to\ the\ Player's\ inventory\r\n\ @return\ true\ if\ Item\ successfully\ Item.\r\n
+comment5.params=commandMap
+comment5.target=void\ addValidCommand(java.util.Map)
+comment5.text=\r\n\ Adds\ a\ valid\ Command\ to\ the\ Player\ object.\r\n\ @param\ commandMap\ a\ map\ of\ the\ valid\ Command\ and\ the\ corresponding\ String\ key.\r\n
+comment6.params=item
+comment6.target=boolean\ containsItem(java.lang.String)
+comment6.text=\r\n\ Check\ to\ see\ if\ the\ Player\ has\ an\ Item\r\n\ @param\ item\ to\ be\ checked\ again\ Player's\ inventory\r\n\ @return\ true\ if\ Player\ has\ Item.\r\n
+comment7.params=item
+comment7.target=Item\ removeItem(Item)
+comment7.text=\r\n\ Removes\ an\ Item\ from\ the\ Player\ Inventory\r\n\ @param\ item\ Item\ to\ be\ removed\ from\ Player\r\n\ @return\ Item\ removed,\ or\ null\ if\ no\ Item\ was\ able\ to\ be\ removed.\r\n
+comment8.params=
+comment8.target=Inventory\ getInventory()
+comment8.text=\r\n\ Grants\ access\ to\ the\ Player's\ inventory.\r\n\ @return\ the\ Player's\ inventory\r\n
+numComments=9

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GameManager
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ extended\ "World\ of\ Zuul"\ application.\r\n\ "World\ of\ Zuul"\ is\ a\ simple,\ text\ based\ adventure\ game.\r\n\r\n\ This\ class\ processes\ commandWord's\ from\ any\ characters\ (\ other\ Players\ or\ NPCs)\ that\ might\r\n\ be\ added\ in\ future\ development,\ as\ well\ as\ the\ current\ player.\ It\ places\ the\ command\r\n\ requests\ into\ a\ stack,\ and\ deals\ with\ them\ one\ by\ one\ by\ running\ a\ continuous\ loop\r\n\ that\ checks\ the\ stack\ of\ possible\ commands.\r\n\r\n\r\n\ @author\ A\ Toomer\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=GameManager()
+comment1.text=\r\n\ Setup\ the\ game\ and\ start\ it.\r\n
+comment2.params=
+comment2.target=GameManager\ getInstance()
+comment3.params=user
+comment3.target=void\ registerPlayer(UserInterface)
+comment4.params=command
+comment4.target=void\ queueCommand(commands.Command)
+comment5.params=
+comment5.target=void\ run()
+comment6.params=running
+comment6.target=void\ setRunning(boolean)
+comment7.params=
+comment7.target=void\ processQueues()
+comment8.params=command
+comment8.target=void\ processCommand(commands.Command)
+numComments=9

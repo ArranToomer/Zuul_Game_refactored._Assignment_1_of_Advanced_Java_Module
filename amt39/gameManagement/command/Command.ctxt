@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ extended\ "World\ of\ Zuul"\ application.\r\n\ "World\ of\ Zuul"\ is\ a\ simple,\ text\ based\ adventure\ game.\r\n\r\n\ This\ abstract\ class\ is\ a\ template\ for\ concrete\ implementations\ of\ user\r\n\ commands.\ They\ are\ created\ by\ the\ CommandManager\ class.\r\n\r\n\ @author\ Arran\ Toomer\r\n\ @version\ 1\r\n\r\n
+comment1.params=
+comment1.target=java.lang.String\ execute()
+comment2.params=
+comment2.target=java.lang.String\ getSecondWord()
+comment3.params=
+comment3.target=java.lang.String\ getThirdWord()
+comment4.params=secondWord
+comment4.target=void\ setSecondWord(java.lang.String)
+comment5.params=thirdWord
+comment5.target=void\ setThirdWord(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ initiateCommand()
+comment6.text=\r\nAn\ abstract\ method\ that\ is\ used\ to\ define\ specific\ commands.\r\n
+comment7.params=user
+comment7.target=void\ setUser(amt39.gameManagement.body.Motile)
+comment8.params=
+comment8.target=amt39.gameManagement.body.Motile\ getUser()
+numComments=9

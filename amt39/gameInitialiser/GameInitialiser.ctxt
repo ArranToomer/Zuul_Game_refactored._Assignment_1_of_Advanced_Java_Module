@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameInitialiser
+comment0.text=\r\n\ An\ abstract\ class\ used\ as\ a\ template\ for\ specific\ implementtions.\r\n\ I\ have\ included\ a\ concrete\ implementaion\ via\ the\r\n\ \ ZuulInitialiser\ child\ class\ in\ package\ amt39.gamesetup.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GameInitialiser()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BodyCreator\r\n
+comment2.params=
+comment2.target=void\ setupRooms()
+comment3.params=
+comment3.target=void\ setupItems()
+comment4.params=
+comment4.target=void\ setupPlayers()
+comment5.params=
+comment5.target=void\ setupDirections()
+comment6.params=
+comment6.target=java.util.Set\ getBodyList()
+comment7.params=body
+comment7.target=void\ addBody(amt39.gameManagement.body.Body)
+comment8.params=body
+comment8.target=amt39.gameManagement.body.Body\ getBody(java.lang.String)
+comment8.text=\r\n\ Despite\ the\ small\ performance\ penalty\ for\ going\ through\ the\ whole\ collection,\ I\ believe\r\n\ that\ it\ is\ worth\ it\ for\ readability\ plus\ the\ fact\ that\ not\ too\r\n\ many\ items\ will\ be\ added\ in\ the\ future.\r\n
+numComments=9

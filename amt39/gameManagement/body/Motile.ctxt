@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Motile
+comment0.text=\r\n\ Abstract\ class\ Motile\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=name
+comment1.target=Motile(java.lang.String)
+comment1.text=\r\n\ \r\n\ @param\ name\ the\ name\ of\ the\ Motile\r\n\r\n
+comment2.params=currentRoom
+comment2.target=void\ setCurrentRoom(Room)
+comment2.text=\r\n\ \r\n\ @param\ currentRoom\ the\ current\ room\ of\ the\ Motile\r\n
+comment3.params=
+comment3.target=boolean\ goBack()
+comment3.text=\r\n\ \r\n\ @return\ true\ if\ Motile\ has\ successfully\ gone\ back\ a\ room.\ \r\n
+comment4.params=room
+comment4.target=void\ goRoomDirect(Room)
+comment5.params=
+comment5.target=Room\ getCurrentRoom()
+comment5.text=\r\n\ \r\n\ @return\ the\ current\ room\ of\ the\ Motile\r\n
+comment6.params=
+comment6.target=java.lang.String\ getRoomInfo()
+comment6.text=\r\n\ \r\n\ @return\ a\ string\ of\ information\ describing\ the\ entities\ and\ exits\ of\ a\ Room\ object.\r\n
+numComments=7

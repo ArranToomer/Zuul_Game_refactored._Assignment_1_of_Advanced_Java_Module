@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ \ This\ class\ is\ part\ of\ the\ extended\ "World\ of\ Zuul"\ application.\r\n\ \ "World\ of\ Zuul"\ is\ a\ simple,\ text\ based\ adventure\ game.\r\n\r\n\ \ This\ class\ starts\ the\ application\ by\ instantiating\ the\ ZuulInitiator\ class.\r\n\r\n\r\n\ @author\ rej\ and\ A\ Toomer\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+numComments=2

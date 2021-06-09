@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ItemDealer
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ ItemDealer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=item
+comment1.target=boolean\ containsItem(java.lang.String)
+comment1.text=\r\n\ \r\n\ Check\ to\ see\ if\ this\ inventory\ contains\ a\ particular\ Item\r\n\ @param\ item\ The\ Item\ object\ to\ check\r\n\ @return\ true\ if\ the\ Inventory\ does\ contain\ the\ item\r\n
+comment2.params=item
+comment2.target=Item\ removeItem(Item)
+comment2.text=\r\n\ \r\n\ @param\ item\ to\ be\ removed\ from\ the\ ItemHolder\r\n\ @return\ item\ removed\r\n
+comment3.params=item
+comment3.target=boolean\ addItem(Item)
+comment3.text=\r\n\ \r\n\ @param\ item\ to\ be\ added\ to\ the\ ItemHolder\r\n\ @return\ true\ if\ item\ added\ successfully\r\n
+comment4.params=item
+comment4.target=Item\ getItem(java.lang.String)
+comment4.text=\r\n\ \r\n\ @return\ the\ set\ of\ items\ held\ by\ the\ ItemHolder\r\n
+numComments=5

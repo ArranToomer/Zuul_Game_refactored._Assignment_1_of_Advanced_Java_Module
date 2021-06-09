@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ extended\ "World\ of\ Zuul"\ application.\r\n\ "World\ of\ Zuul"\ is\ a\ simple,\ text\ based\ adventure\ game.\r\n\ \r\n\ This\ parser\ reads\ user\ input\ and\ tries\ to\ interpret\ it\ as\ an\ "Adventure"\r\n\ command.\ Every\ time\ it\ is\ called\ it\ reads\ a\ line\ from\ the\ terminal\ and\r\n\ \ interprets\ the\ line\ as\ a\ three\ word\ command.\r\n\r\n\ This\ parser\ can\ create\ a\ Command\ object\ from\ any\ user\ input.\ If\ the\ first\ word\ is\r\n\ a\ valid\ CommandWord\ then\ this\ parser\ instantiates\ the\ relevant\ Command\ object.\r\n\ If\ the\ first\ word\ is\ not\ recognised\ as\ a\ valid\ CommandWord,\ or\ has\ a\ null\ value,\ then\ we\r\n\ create\ an\ UNKNOWN\ Command.\r\n\ \r\n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes.\ Modified\ by\ Arran\ Toomer\ (2020)\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Parser()
+comment1.text=\r\n\ Create\ a\ parser\ to\ read\ from\ the\ terminal\ window.\r\n
+comment2.params=
+comment2.target=commands.Command\ getCommand()
+comment2.text=\r\n\ @return\ The\ next\ command\ from\ the\ user.\r\n
+comment3.params=text
+comment3.target=java.lang.String\ formatText(java.lang.String)
+comment3.text=\r\n\r\n\r\n\ @return\ A\ cleaned\ up\ version\ of\ the\ param\ as\ a\ String\r\n\ @paramtext\ the\ String\ to\ be\ cleaned\r\n
+numComments=4
